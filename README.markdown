@@ -276,6 +276,7 @@ popular color themes](http://www.vi-improved.org/color_sampler_pack/):
 
 * jellybeans
 * matrix
+* mac_classic
 * railscasts2
 * tango
 * vibrantink
@@ -291,4 +292,3 @@ Janus also has a few customized versions of popular themes:
 * molokai
 * railscasts+
 * vwilight
-
